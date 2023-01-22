@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-CreationalFactoryMethodDP", "01-CreationalFactoryMethodDP\01-CreationalFactoryMethodDP.csproj", "{88FEB827-7D62-45CA-93CF-C0AD13DA355F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-BehavioralObserverDP", "02-BehavioralObserverDP\02-BehavioralObserverDP.csproj", "{15F9BB22-420C-459A-9F6E-DED7E8874E0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88FEB827-7D62-45CA-93CF-C0AD13DA355F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88FEB827-7D62-45CA-93CF-C0AD13DA355F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88FEB827-7D62-45CA-93CF-C0AD13DA355F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88FEB827-7D62-45CA-93CF-C0AD13DA355F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15F9BB22-420C-459A-9F6E-DED7E8874E0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15F9BB22-420C-459A-9F6E-DED7E8874E0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15F9BB22-420C-459A-9F6E-DED7E8874E0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15F9BB22-420C-459A-9F6E-DED7E8874E0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45EE2EC1-53A4-493A-B281-788CE6EBD6FD}
+	EndGlobalSection
+EndGlobal
